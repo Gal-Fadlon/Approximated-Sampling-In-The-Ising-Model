@@ -1,6 +1,5 @@
 # Exact and Approximated Sampling in the Ising Model
 
-# Exact Sampling in the Ising Model via Dynamic Programming
 This repository provides implementations of exact and approximated sampling methods for the Ising model. The Ising model is a mathematical model used to describe the behavior of magnetic spins in a lattice. In this project, we specifically focus on a 2D regular lattice with dimensions 8 × 8.
 
 # Exact Sampling via Dynamic Programming
